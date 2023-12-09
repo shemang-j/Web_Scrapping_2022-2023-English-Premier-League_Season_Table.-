@@ -8,7 +8,7 @@ This project involves web scraping data from a specific website to gather inform
 
 ## Tableau Dashboard
 
-The Tableau dashboard is designed to provide insightful visualizations and analysis of the Premier League data based on the **Total points,** **Total Goals** and **Tota Loss**.
+The Tableau dashboard is designed to provide insightful visualizations and analysis of the Premier League data based on the **Total points,** **Total Goals** and **Total Loss**.
 
 ![](./EPL.png)
 
